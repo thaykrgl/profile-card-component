@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  background: url(./img/bg-pattern-top.svg),
+    url(./img/bg-pattern-bottom.svg) hsl(185, 75%, 39%);
+  background-repeat: no-repeat no-repeat;
+  background-position: -85% 120%, 180% -75%;
+}
+
+.stat {
+  font-size: 18px;
+  font-weight: 700;
+  color: hsl(229, 23%, 23%);
+  padding-bottom: 0.5vh;
+}
+
+.txt-clr {
+  color: hsl(227, 10%, 46%);
+}
+
+.container {
+  width: 25%;
+  margin: 25vh auto 1vh auto;
+  text-align: center;
+  background: url(./img/bg-pattern-card.svg) no-repeat top white;
+  background-size: contain;
+  border-radius: 15px;
+}
+
+.image {
+  padding-top: 12vh;
+  padding-bottom: 2vh;
+}
+
+.image img {
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.victor-info {
+  margin-bottom: 3vh;
+  padding-bottom: 3vh;
+  border-bottom: 1px solid hsl(227, 10%, 46%);
+}
+
+.name-age {
+  font-weight: 700;
+  margin-bottom: 0.5vh;
+}
+
+.age {
+  font-weight: 400;
+  padding-left: 0.5vw;
+  font-size: 16px;
+}
+
+.city {
+  font-size: 14px;
+}
+
+.account-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4vw 3vh 4vw;
+}
+
+.sm-font {
+  font-size: 11px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #505050;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 376px) {
+  body {
+    background-position: 120% 130%;
+  }
+
+  .container {
+    width: 85%;
+  }
+
+  .account-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.7vh 10vw 3vh 10vw;
+  }
+}
