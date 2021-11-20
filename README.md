@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/profile/thaykrgl]
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/thaykrgl)
 - Live Site URL: [https://thaykrgl.github.io/profile-card-component/]
 
 ## My process
