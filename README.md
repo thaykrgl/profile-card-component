@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle Landing Page Solution
+# Frontend Mentor - Profile Card Component Solution
 
 This is a solution to the [Profile Card Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
