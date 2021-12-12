@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Linkedin - [Taha](https://www.linkedin.com/in/taha-ayk%C4%B1ro%C4%9Flu-589715197/)
+- Linkedin - [Taha](https://www.linkedin.com/in/tahaaykiroglu)
 - Frontend Mentor - [@thaykrgl](https://www.frontendmentor.io/profile/thaykrgl)
